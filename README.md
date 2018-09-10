@@ -1,16 +1,16 @@
 
-<h1 align="center">Baic</h1>
+<h1 align="center">NowPay SDK</h1>
 
-<p align="center">基于Baic网关的 PHP 简单组件。</p>
+<p align="center">基于Baic NowPay的 PHP 简单组件。</p>
 
 ## 安装
 
 ```sh
-$ composer require gangangan/baic -vvv
+$ composer require baic-project/nowpay-sdk -vvv
 ```
 ## 配置
 
-在使用本扩展之前，你需要去 [BAIC商户后台] 注册账号，然后创建应用，获取应用的 APP Id与Key。
+在使用本扩展之前，你需要去 [NowPay商户平台] 注册账号，然后创建应用，获取应用的 sdkID和AppKey。
 
 ## 使用
 
