@@ -19,7 +19,7 @@ use BaicProject\NowPaySDK\Exceptions\HttpException;
  */
 class Baic
 {
-    protected $apiPrefix = 'http://140.143.225.189/paygateway';
+    protected $apiPrefix = 'http://140.143.225.189:8080/paygateway';
     protected $apiGetToken = '/sdk/getToken';                                           //获取Token
     protected $apiGetPorder = '/sdk/getPorder';                                         //获取Porder
     protected $apiSelectByTransactionNo = '/sdk/selectByTransactionNo';                 //根据交易号订单查询
