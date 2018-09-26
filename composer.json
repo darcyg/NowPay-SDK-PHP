@@ -1,6 +1,6 @@
 {
     "name": "baic-project/nowpay-sdk",
-    "description": "BAIC简化版 PHP SDK。",
+    "description": "BAIC NowPay简化版PHP-SDK。",
     "license": "MIT",
     "authors": [
         {
